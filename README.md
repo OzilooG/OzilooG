@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OzilooG / Oskar Sadowski
+- 👋 Hi, I’m @OzilooG / Oskar Sadowski ( C23341983 )
 - 👀 I’m interested in technology and how it all works together
 - 🌱 I’m currently learning multiple languages such as c, python, html, sql just to name a few
 
